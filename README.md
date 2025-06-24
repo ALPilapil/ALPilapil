@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **alpilapil@ucdavis.edu**
 
-- 📄 Know about my experiences [temp](temp)
+- 📄 Know about my experiences [here](AaronPilapil-Resume.pdf)
 
 - ⚡ Fun fact **I love the warriors, music, and traveling**
 
