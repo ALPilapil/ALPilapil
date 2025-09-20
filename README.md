@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaron Pilapil</h1>
-<h3 align="center">A passionate computational linguist</h3>
+<h3 align="center">A passionate software engineer</h3>
 
-- 🔭 I’m currently working on **investigating different ways to train transformers for NLP**
+- 🔭 I’m currently working on **denoising EEG data, evaluating different training techniques for language modeling, a custom VLM**
 
 - 🌱 I’m currently learning **the mathematical background of machine learning models, linguistics, and more**
 
