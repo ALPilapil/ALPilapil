@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aaron Pilapil</h1>
 <h3 align="center">A passionate software engineer</h3>
 
-- 🔭 I’m currently working on **denoising EEG data, evaluating different training techniques for language modeling, a custom VLM**
+- 🔭 I’m currently working on **denoising EEG data, evaluating different training techniques for language modeling, multimodal assistive technology **
 
-- 🌱 I’m currently learning **the mathematical background of machine learning models, linguistics, and more**
-
-- 👯 I’m looking to collaborate on **machine learning and its interactions with humans**
-
-- 🤝 I’m looking for help with **gaining more experience in the industry side**
+- 👯 I’m looking to collaborate on **machine learning related research in the field of BCI or Language Modeling**
 
 - 💬 Ask me about **brain computer interfaces, computational linguistics, psychology**
 
