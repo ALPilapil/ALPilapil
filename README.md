@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaron Pilapil</h1>
-<h3 align="center">A passionate software engineer</h3>
+<h3 align="center">A passionate machine learning researcher</h3>
 
 - 🔭 I’m currently working on **denoising EEG data, evaluating different training techniques for language modeling, multimodal assistive technology **
 
