@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaron Pilapil</h1>
 <h3 align="center">A passionate machine learning researcher</h3>
 
-- 🔭 I’m currently working on **denoising EEG data, evaluating different training techniques for language modeling, multimodal assistive technology **
+- 🔭 I’m currently working on **denoising EEG data, evaluating different training techniques for language modeling, multimodal assistive technology**
 
 - 👯 I’m looking to collaborate on **machine learning related research in the field of BCI or Language Modeling**
 
