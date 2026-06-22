@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aaron Pilapil</h1>
 <h3 align="center">A passionate machine learning researcher</h3>
 
-- 🔭 I’m currently working on **denoising EEG data, evaluating different training techniques for language modeling, multimodal assistive technology**
+- 🔭 I’m currently working on **denoising EEG data, evaluating different training techniques for language modeling, brain computer interfaces**
 
-- 👯 I’m looking to collaborate on **machine learning related research in the field of BCI or Language Modeling**
+- 💬 Ask me about **brain computer interfaces and computational linguistics**
 
-- 💬 Ask me about **brain computer interfaces, computational linguistics, psychology**
-
-- 📫 How to reach me **alpilapil@ucdavis.edu**
+- 📫 How to reach me **aarpila@gmail.com**
 
 - 📄 Know about my experiences [here](AaronPilapil-Resume.pdf)
 
-- ⚡ Fun fact **I love the warriors, music, and traveling**
+- ⚡ Fun fact **I love the basketball and making music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
