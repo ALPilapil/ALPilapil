@@ -11,7 +11,9 @@
 
 - ⚡ Fun fact **I love the basketball and making music**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: www.linkedin.com/in/aaron-pilapil
+
+</h3>
 <p align="left">
 </p>
 
